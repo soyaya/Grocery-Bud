@@ -5,3 +5,6 @@ npm install
 
 
 npm start
+
+I did a rough work on how it was developed 
+https://youtu.be/05MbacR5KG0
